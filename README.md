@@ -20,7 +20,7 @@ Apache License, Version 2.0. Read the full license here:</p>
 
 <p><a href="http://www.apache.org/licenses/LICENSE-2.0">http://www.apache.org/licenses/LICENSE-2.0</a></p>
 
-
+<!--
   <h2>关于作者</h2>
 <p>
    隋雨辰 Android架构师
@@ -28,4 +28,4 @@ Apache License, Version 2.0. Read the full license here:</p>
    厦门GDG联合负责人  
    51CTO学院签约讲师  
    多贝网特约讲师 
-</p>
+</p>-->
