@@ -6,8 +6,10 @@ FaSTAndroid是一个Android快速开发框架，目的是帮助大家快速高�
 了解框架设计者背后的思想和技术。
 
 FaST框架会动态调整，大部分模块使用已经存在的开源项目。
-框架本身保持灵活性，当有更好的模块出现，会被继承到此框架中。
+框架本身保持灵活性，当有更好的模块出现，会被集成到此框架中。
 
+
+引用其他开源项目列表
 <p>1. <a href="https://github.com/JakeWharton/butterknife">Butter Knife</a> </p>
 
 <p>2. <a href="https://github.com/greenrobot/EventBus">EventBus</a> </p>
