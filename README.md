@@ -29,8 +29,13 @@ ORM
 <p>6. <a href="https://github.com/Issacw0ng/SwipeBackLayout">SwipeBackLayout</a></p>
 PropertyAnimation
 <p>7. <a href="https://github.com/JakeWharton/NineOldAndroids">NineOldAndroids</a></p>
-MaterialStyleWidget
+
+MaterialStyle
+widget
 <p>8. <a href="https://github.com/navasmdc/MaterialDesignLibrary">MaterialDesignLibrary</a></p>
+
+<p>8. <a href="https://github.com/traex/RippleEffect">RippleEffect</a></p>
+
 
 
 
