@@ -16,21 +16,32 @@ FaST框架会动态调整，大部分模块使用已经存在的开源项目。
 
 
 引用其他开源项目列表
+框架类：
+依赖注入
 <p>1. <a href="https://github.com/JakeWharton/butterknife">Butter Knife</a> </p>
-
+事件驱动
 <p>2. <a href="https://github.com/greenrobot/EventBus">EventBus</a> </p>
+ORM
+<p>3. <a href="https://github.com/pardom/ActiveAndroid">ActiveAndroid</a></p>
 
-<p>3. <a href="https://github.com/mcxiaoke/android-volley">android-volley</a> </p>
+工具类：
+异步HTTP
+<p>4. <a href="https://github.com/mcxiaoke/android-volley">android-volley</a> </p>
+图片异步加载和缓存
+<p>5. <a href="https://github.com/nostra13/Android-Universal-Image-Loader">Universal Image Loader for Android</a></p>
 
-<p>4. <a href="https://github.com/nostra13/Android-Universal-Image-Loader">Universal Image Loader for Android</a></p>
-
-<p>5. <a href="https://github.com/pardom/ActiveAndroid">ActiveAndroid</a></p>
-
+其他：
+滑动关闭
 <p>6. <a href="https://github.com/Issacw0ng/SwipeBackLayout">SwipeBackLayout</a></p>
-
+PropertyAnimation
 <p>7. <a href="https://github.com/JakeWharton/NineOldAndroids">NineOldAndroids</a></p>
 
+MaterialStyle
+widget
 <p>8. <a href="https://github.com/navasmdc/MaterialDesignLibrary">MaterialDesignLibrary</a></p>
+
+<p>8. <a href="https://github.com/traex/RippleEffect">RippleEffect</a></p>
+
 
 
 
